@@ -1,12 +1,3 @@
-# HR-management
-HR management module.
-## Installation
-
-```bash
- pip install --user pipenv
-```
-
-# Dependencies
 asgiref==3.5.2
 autopep8==1.6.0
 certifi==2022.5.18.1
@@ -45,22 +36,3 @@ sqlparse==0.4.2
 toml==0.10.2
 uritemplate==3.0.1
 urllib3==1.26.9
-
-#run the code
-```bash
- mkdir task
-```
-put the code on the "task" folder
-```bash
- pipenv install
-```
-```bash
- pipenv shell
-```
-```bash
- python manage.py runserver
-```
-api url : http://127.0.0.1:8000/api/
-
-go to the url : http://127.0.0.1:8000/swagger/
-all endpoints are listed there
