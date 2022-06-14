@@ -6,7 +6,7 @@ HR management module.
  pip install --user pipenv
 ```
 
-# Dependencies
+## Dependencies
 asgiref==3.5.2
 autopep8==1.6.0
 certifi==2022.5.18.1
@@ -46,7 +46,7 @@ toml==0.10.2
 uritemplate==3.0.1
 urllib3==1.26.9
 
-#run the code
+## run the code
 ```bash
  mkdir task
 ```
